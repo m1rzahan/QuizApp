@@ -1,4 +1,4 @@
 {
-  "questions" : ["What is Android"]
-  "answers" : ["Android is a mobile operating system based on a modified version of the Linux kernel"]
+  "questions" : "What is Android"
+  "answers" : "Android is a mobile operating system based on a modified version of the Linux kernel"
   }
